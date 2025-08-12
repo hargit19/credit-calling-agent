@@ -1,7 +1,7 @@
 ### Credit Calling Agent
 
 n8n based backend 
-![n8n backend](./screenshot-2025-08-12-233053.png)
+![n8n backend](./Screenshot 2025-08-12 233053.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
